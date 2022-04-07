@@ -58,7 +58,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Workflow Automation with Microsoft Power Automate [[Packt]](https://www.packtpub.com/product/workflow-automation-with-microsoft-power-automate/9781839213793) [[Amazon]](https://www.amazon.com/Workflow-Automation-Microsoft-Power-Automate/dp/1839213795)
 
 
-## Get to Know the Author
+## Get to Know the Authors
 
 **Aaron Guilmette** 
 is a senior program manager at Microsoft, helping customers adopt the Microsoft 365 platform. He primarily focuses on collaborative technologies, including Microsoft Teams, Exchange Online, and Azure Active Directory. Aaron lives in the Michigan area of Detroit with his five children. When he's not busy solving technical problems, writing, or running his children to events, he's likely making a pizza.
@@ -72,7 +72,7 @@ is a senior customer success manager at Microsoft, helping customers realize the
 **Angel Aviles** 
 is a seasoned unified communications and telecommunications engineer with over 20 years of experience in the field. He is passionate about bleeding-edge technology and integrating voice, video, and collaboration systems. He has worked for Microsoft for over 7 years as an Office 365 deployment consultant and voice technology specialist and is currently a Modern Communications Customer Success Manager.
 
-## Other books by the author
+## Other books by the authors
 * [Deploying Microsoft 365 Teamwork: Exam MS-300 Guide](https://www.packtpub.com/product/deploying-microsoft-365-teamwork-exam-ms-300-guide/9781838987732)
 * [Microsoft SharePoint Server 2019 and SharePoint Hybrid Administration](https://www.packtpub.com/product/microsoft-sharepoint-server-2019-and-sharepoint-hybrid-administration/9781800563735)
 * [Microsoft 365 Certified Fundamentals MS-900 Exam Guide](https://www.packtpub.com/product/microsoft-365-certified-fundamentals-ms-900-exam-guide/9781838982171)
