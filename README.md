@@ -63,7 +63,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Aaron Guilmette** 
 is a senior program manager at Microsoft, helping customers adopt the Microsoft 365 platform. He primarily focuses on collaborative technologies, including Microsoft Teams, Exchange Online, and Azure Active Directory. Aaron lives in the Michigan area of Detroit with his five children. When he's not busy solving technical problems, writing, or running his children to events, he's likely making a pizza.
 
-**Yura Lee**  
+**Yura Lee**
 is a security program manager at Microsoft, focusing on cloud data security for her customers. She has years of experience as a Microsoft 365 and Azure consultant and technical specialist in the field. Yura lives in New Jersey with her husband.
 
 **Grant Oliasani**
