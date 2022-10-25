@@ -77,3 +77,7 @@ is a seasoned unified communications and telecommunications engineer with over 2
 * [Microsoft SharePoint Server 2019 and SharePoint Hybrid Administration](https://www.packtpub.com/product/microsoft-sharepoint-server-2019-and-sharepoint-hybrid-administration/9781800563735)
 * [Microsoft 365 Certified Fundamentals MS-900 Exam Guide](https://www.packtpub.com/product/microsoft-365-certified-fundamentals-ms-900-exam-guide/9781838982171)
 * [Microsoft 365 Certified Fundamentals MS-900 Exam Guide - Second Edition](https://www.packtpub.com/product/microsoft-365-certified-fundamentals-ms-900-exam-guide-second-edition/9781803231167)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801075558">https://packt.link/free-ebook/9781801075558 </a> </p>
